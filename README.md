@@ -55,3 +55,5 @@
 [How Terence Reilly Skyrocketed Stanley's Revenue](https://www.creatoriq.com/blog/earned-podcast-ep-111-terence-reilly-stanley-cup-quencher-viral-car-fire-tiktok-influencer-marketing-crocs)
 
 [The DEFINITIVE GUIDE](https://www.youtube.com/playlist?list=PLf1OHBjQ40K45ipnCBW0FtrVrUHxwdZr4)
+
+[day in the life of a Business Analyst at Spotify | How I solve a Case Study Interview (logic & data)](https://www.youtube.com/watch?v=QTq7p4G5PaQ)
