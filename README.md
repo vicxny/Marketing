@@ -54,4 +54,4 @@
 
 [How Terence Reilly Skyrocketed Stanley's Revenue](https://www.creatoriq.com/blog/earned-podcast-ep-111-terence-reilly-stanley-cup-quencher-viral-car-fire-tiktok-influencer-marketing-crocs)
 
-[The DEFINITIVE GUIDE to Creative Testing with Facebook Ads](https://www.youtube.com/playlist?list=PLf1OHBjQ40K45ipnCBW0FtrVrUHxwdZr4)
+[The DEFINITIVE GUIDE](https://www.youtube.com/playlist?list=PLf1OHBjQ40K45ipnCBW0FtrVrUHxwdZr4)
