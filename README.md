@@ -29,6 +29,8 @@
 
 [Marketing Mix Modeling (MMM) A Complete Rundown for Digital Marketerts](https://www.youtube.com/watch?v=uFEdzfN4cTo)
 
+[Multi-touch attribution (MTA) vs marketing mix modeling (MMM)](https://www.youtube.com/watch?v=HIyZZUl80RA)
+
 ### Attribution
 
 [Attribution Modeling - An In-Depth Guide](https://www.youtube.com/watch?v=Cr8UQXIcQ50)
@@ -39,6 +41,17 @@
 
 [Ep. 1 Incrementality Testing - Measure Your AD Effectiveness Without Cookies](https://www.youtube.com/watch?v=eEdcGIvmHcI)
 
+[Facebook Brand Lift Study](https://www.youtube.com/watch?v=PukeGfvGi5w&t=1s)
+
 ### Data Cleaning Rooms
 
 [Share securely with data clean rooms ](https://www.youtube.com/watch?v=60WoKAnBeVY)
+
+
+## Other
+
+[Moving to role of Data Strategy and am lost](https://www.reddit.com/r/datascience/comments/qdqi8c/moving_to_role_of_data_strategy_and_am_lost/?rdt=33178)
+
+[How Terence Reilly Skyrocketed Stanley's Revenue](https://www.creatoriq.com/blog/earned-podcast-ep-111-terence-reilly-stanley-cup-quencher-viral-car-fire-tiktok-influencer-marketing-crocs)
+
+[The DEFINITIVE GUIDE to Creative Testing with Facebook Ads](https://www.youtube.com/playlist?list=PLf1OHBjQ40K45ipnCBW0FtrVrUHxwdZr4)
