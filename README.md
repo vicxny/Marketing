@@ -57,3 +57,5 @@
 [The DEFINITIVE GUIDE](https://www.youtube.com/playlist?list=PLf1OHBjQ40K45ipnCBW0FtrVrUHxwdZr4)
 
 [day in the life of a Business Analyst at Spotify | How I solve a Case Study Interview (logic & data)](https://www.youtube.com/watch?v=QTq7p4G5PaQ)
+
+[Value Chain Management Specialization](https://www.coursera.org/specializations/value-chain-management)
