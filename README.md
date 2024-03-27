@@ -21,6 +21,8 @@
 
 - [ ] [Google Advanced Data Analytics Professional Certificate]()
 
+## Topics
+
 ### MMM
 
 ### Attribution
