@@ -18,6 +18,8 @@
 - [ ] [Marketing Strategy Specialization - IE University](https://www.coursera.org/specializations/marketing-strategy)
 
 - [ ] [Marketing Mix Implementation Specialization - IE University](https://www.coursera.org/specializations/marketing-mix)
+      
+- [ ] [Market Research and Consumer Behavior](https://www.coursera.org/specializations/branding-the-creative-journey#courses)
 
 - [ ] [Google Advanced Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-advanced-data-analytics)
       
