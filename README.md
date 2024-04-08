@@ -15,6 +15,8 @@
 
 - [ ] [Foundations of Marketing Analytics Specialization - Emory Univerity](https://www.coursera.org/specializations/marketing-analytics)
 
+- [ ] [Strategic Business Analytics Specialization- ESSEC](https://www.coursera.org/specializations/strategic-analytics)
+
 - [ ] [Meta Marketing Analytics Professional Certificate](https://www.coursera.org/professional-certificates/facebook-marketing-analytics)
 
 - [ ] [Marketing Strategy Specialization - IE University](https://www.coursera.org/specializations/marketing-strategy)
@@ -25,7 +27,6 @@
 
 - [ ] [Google Advanced Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-advanced-data-analytics)
       
-- [ ] [Strategic Business Analytics Specialization- ESSEC](https://www.coursera.org/specializations/strategic-analytics)
 
 ## Topics
 
