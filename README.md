@@ -8,6 +8,8 @@
 ## Courses
 
 - [ ] [Marketing Analytics - University of Virginia](https://www.coursera.org/learn/uva-darden-market-analytics)
+      
+- [ ] [Unilever Digital Marketing Analyst Professional Certificate](https://www.coursera.org/professional-certificates/unilever-digital-marketing-analyst)
 
 - [ ] [Digital Marketing Specialization - UIUC](https://www.coursera.org/specializations/digital-marketing)
 
