@@ -33,6 +33,8 @@
 
 [Multi-touch attribution (MTA) vs marketing mix modeling (MMM)](https://www.youtube.com/watch?v=HIyZZUl80RA)
 
+[Season 1: Marketing Mix Modeling Master Classes](https://www.youtube.com/playlist?list=PLctJCIReWvUHUnrl3MH6yHp8dFq2Jz9C5)
+
 ### Attribution
 
 [Attribution Modeling - An In-Depth Guide](https://www.youtube.com/watch?v=Cr8UQXIcQ50)
