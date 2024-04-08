@@ -37,6 +37,8 @@
 
 [Marketing Mix Modeling Masterclass on Excel](https://www.youtube.com/playlist?list=PLdaWFt7A-Gf22hlttVYYoR0HlJ-B7OYwo)
 
+[A Bayesian Approach to Media Mix Modeling (Michael Johns & Zhenyu Wang)](https://www.youtube.com/watch?v=UznM_-_760Y)
+
 ### Attribution
 
 [Attribution Modeling - An In-Depth Guide](https://www.youtube.com/watch?v=Cr8UQXIcQ50)
