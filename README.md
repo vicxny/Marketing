@@ -13,7 +13,7 @@
 
 - [ ] [Digital Marketing Specialization - UIUC](https://www.coursera.org/specializations/digital-marketing)
 
-- [ ] [Foundations of Marketing Analytics Specialization - Emory Univerity](https://www.coursera.org/specializations/marketing-analytics)
+- [ ] [Foundations of Marketing Analytics Specialization - Emory University](https://www.coursera.org/specializations/marketing-analytics)
 
 - [ ] [Strategic Business Analytics Specialization- ESSEC](https://www.coursera.org/specializations/strategic-analytics)
 
