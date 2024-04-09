@@ -25,6 +25,8 @@
       
 - [ ] [Market Research and Consumer Behavior - IE University](https://www.coursera.org/specializations/branding-the-creative-journey#courses)
 
+- [ ] [Google Advanced Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics#courses)
+
 - [ ] [Google Advanced Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-advanced-data-analytics)
       
 
