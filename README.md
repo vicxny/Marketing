@@ -1,6 +1,7 @@
 # Marketing
 
 - Familiarity with digital marketing measurement solutions and preferably, a deep understanding of at least one (e.g. MMM, attribution, Lift / Incrementality Testing, Data Clean Rooms)
+- Knowledge of Marketing Mix Models, Multi-Touch Attribution Models, Customer Segmentation and incrementality measurement approaches
 - A/B Testing, Matched Market Testing, Brand + Conversion Lift
 - Lifetime Value & Propensity Modeling, Creative Fatigue, Promotional Impact
 
