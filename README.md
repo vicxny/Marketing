@@ -33,7 +33,7 @@
 
 ## Topics
 
-### MMM
+### [MMM](https://www.ruleranalytics.com/blog/analytics/marketing-mix-modelling/)
 
 [Marketing Mix Modeling (MMM) A Complete Rundown for Digital Marketerts](https://www.youtube.com/watch?v=uFEdzfN4cTo)
 
