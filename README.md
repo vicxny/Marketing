@@ -17,6 +17,8 @@
 - [ ] [Foundations of Marketing Analytics Specialization - Emory University](https://www.coursera.org/specializations/marketing-analytics)
 
 - [ ] [Meta Marketing Analytics Professional Certificate](https://www.coursera.org/professional-certificates/facebook-marketing-analytics)
+      
+- [ ] [Meta Social Media Marketing Professional Certificate](https://www.coursera.org/learn/measure-and-optimize-social-media-marketing-campaigns?specialization=facebook-social-media-marketing)
 
 - [ ] [Strategic Business Analytics Specialization- ESSEC](https://www.coursera.org/learn/foundations-marketing-analytics?specialization=strategic-analytics)
 
