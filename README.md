@@ -5,6 +5,9 @@
 - A/B Testing, Matched Market Testing, Brand + Conversion Lift
 - Lifetime Value & Propensity Modeling, Creative Fatigue, Promotional Impact
 
+  ## Site
+- [ ] [Reforge](https://www.reforge.com/courses?reloadCount=1&reloadTime=1713979520949)
+- [ ] [CXL](https://cxl.com/institute/)
 
 ## Courses
 
