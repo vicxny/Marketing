@@ -10,6 +10,8 @@
 - [ ] [CXL](https://cxl.com/institute/)
 - [ ] [PMA - Product Marketing](https://www.productmarketingalliance.com/pro-plus-membership/)
 
+   ## Certificaiton
+- [ ] [Google Ads - Measurement Certification](https://skillshop.docebosaas.com/learn/signin)
 
 ## Courses
 
